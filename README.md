@@ -20,7 +20,7 @@ I'm JiaJun, currently a student studying Information Technology at Nanyang Polyt
 
 ## Interested in Learning!
 
-[![Skill Icons](https://skillicons.dev/icons?i=react,ts,aws&perline=10&center=true)](https://skillicons.dev/)
+[![Skill Icons](https://skillicons.dev/icons?i=react,ts,aws,redis&perline=10&center=true)](https://skillicons.dev/)
 
 ## Socials
 
