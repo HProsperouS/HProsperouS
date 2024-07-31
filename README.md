@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm JiaJun, currently a student studying Information Technology at Nanyang Polytechnic in Singapore. I have a deep passion for programming and aspire to become a Fullstack Developer in the future. 
+Hi, I'm JiaJun, a passionate and driven student currently pursuing a degree in Computer Science at Singapore Management University.
 
 ![JiaJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HProsperouS&show_icons=true&theme=transparent)
 
