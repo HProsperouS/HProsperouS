@@ -10,7 +10,6 @@
 
 Hi, I'm JiaJun, a passionate and driven student currently pursuing a degree in Computer Science at Singapore Management University.
 
-![JiaJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HProsperouS&show_icons=true&theme=transparent)
 [![JiaJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HProsperouS)](https://github.com/anuraghazra/github-readme-stats)
 ## Skills and Experience
 
