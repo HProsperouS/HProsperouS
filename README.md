@@ -7,20 +7,13 @@
 </div>
 
 ## About Me
-
 Hi, I'm JiaJun, a passionate and driven student currently pursuing a degree in Computer Science at Singapore Management University.
 
-[![JiaJun's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HProsperouS)]
 ## Skills and Experience
-
 [![Skill Icons](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,ts,py,cs,kotlin,nodejs,flask,dotnet,express,sqlite,mysql,aws,figma,github,postman,visualstudio,vscode&perline=9)](https://skillicons.dev/)
 
-![Top Langs](https://img.shields.io/github/languages/top/HProsperouS/HProsperouS)
-
 ## Interested in Learning!
-
 [![Skill Icons](https://skillicons.dev/icons?i=react,ts,swift,aws,redis&perline=10)](https://skillicons.dev/)
 
 ## Socials
-
 [![LinkedIn logo](https://img.shields.io/badge/Liu%20JiaJun-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiajun-liu-775252244/)
