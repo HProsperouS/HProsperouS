@@ -10,16 +10,16 @@
 
 Hi, I'm JiaJun, a passionate and driven student currently pursuing a degree in Computer Science at Singapore Management University.
 
-[![JiaJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HProsperouS)](https://github.com/anuraghazra/github-readme-stats)
+[![JiaJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HProsperouS)]
 ## Skills and Experience
 
-[![Skill Icons](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,ts,py,cs,kotlin,nodejs,flask,dotnet,express,sqlite,mysql,aws,figma,github,postman,regex,visualstudio,vscode,&perline=9&center=true)](https://skillicons.dev/)
+[![Skill Icons](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,ts,py,cs,kotlin,nodejs,flask,dotnet,express,sqlite,mysql,aws,figma,github,postman,visualstudio,vscode&perline=9)](https://skillicons.dev/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HProsperouS&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interested in Learning!
 
-[![Skill Icons](https://skillicons.dev/icons?i=react,ts,swift,aws,redis&perline=10&center=true)](https://skillicons.dev/)
+[![Skill Icons](https://skillicons.dev/icons?i=react,ts,swift,aws,redis&perline=10)](https://skillicons.dev/)
 
 ## Socials
 
